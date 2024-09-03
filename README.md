@@ -10,9 +10,11 @@ Antes de começar, você precisará ter os seguintes softwares instalados em sua
 Siga os passos abaixo para clonar o repositório e executar os exercícios localmente.
 
 1. Clone o Repositório
+   
 Abra o terminal e execute o seguinte comando para clonar o repositório: git clone git@github.com:Alessandra1999/exercicios-java-lista1.git
 
-2. Importe o Projeto na IDE 
+3. Importe o Projeto na IDE
+   
 Se você estiver usando uma IDE como IntelliJ, Eclipse ou VSCode, importe o projeto seguindo as instruções específicas da sua IDE:
 
 - IntelliJ: Vá em File > Open e selecione o diretório do projeto.
