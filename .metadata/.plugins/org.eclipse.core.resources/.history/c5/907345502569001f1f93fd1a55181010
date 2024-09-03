@@ -1,0 +1,46 @@
+package services;
+
+public class Task {
+	private String title;
+	private boolean isCompleted;
+	private Task next;
+	
+	public Task(String title) {
+		this.title = title;
+		this.isCompleted = false;
+		this.next = null;
+	}
+	
+	public String getTitle() {
+		return title;
+	}
+	
+	public void setTitle(String title) {
+		this.title = title;
+	}
+
+	public boolean isCompleted() {
+		return isCompleted;
+	}
+
+	public void setCompleted(boolean isCompleted) {
+		this.isCompleted = isCompleted;
+	}
+
+	public Task getNext() {
+		return next;
+	}
+
+	public void setNext(Task next) {
+		this.next = next;
+	}
+
+	public void markAsCompleted() {
+		this.isCompleted = true;
+	}
+
+	@Override
+	public String toString() {
+		return title + ": " + (isCompleted ? " ✔" : " ✘");
+	}
+}
