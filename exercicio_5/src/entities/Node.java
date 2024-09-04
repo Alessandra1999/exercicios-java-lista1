@@ -1,13 +1,12 @@
-package services;
+package entities;
 
 public class Node {
-	
-	public String text;
+	public Card card;
 	public Node prev;
 	public Node next;
 	
-	public Node(String text) {
-		this.text = text;
+	public Node(Card card) {
+		this.card = card;
 		this.prev = null;
 		this.next = null;
 	}

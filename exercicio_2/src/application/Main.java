@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-import services.History;
+import entities.History;
 
 public class Main {
 

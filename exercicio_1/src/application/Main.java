@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 
-import services.TaskManager;
+import entities.TaskManager;
 
 public class Main {
 

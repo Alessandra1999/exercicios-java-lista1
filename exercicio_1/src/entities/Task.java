@@ -1,4 +1,4 @@
-package services;
+package entities;
 
 public class Task {
 	public String title;

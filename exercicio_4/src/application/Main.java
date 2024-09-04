@@ -1,7 +1,8 @@
 package application;
 
 import java.util.Scanner;
-import services.Editor;
+
+import entities.Editor;
 
 public class Main {
 

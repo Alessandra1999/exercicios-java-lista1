@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.security.auth.login.CredentialNotFoundException"/>
     <fullyQualifiedTypeName name="services.ActionType"/>
+    <fullyQualifiedTypeName name="services.Card"/>
 </qualifiedTypeNameHistroy>
