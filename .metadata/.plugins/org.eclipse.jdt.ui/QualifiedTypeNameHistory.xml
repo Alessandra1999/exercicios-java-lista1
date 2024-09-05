@@ -3,4 +3,8 @@
     <fullyQualifiedTypeName name="javax.security.auth.login.CredentialNotFoundException"/>
     <fullyQualifiedTypeName name="services.ActionType"/>
     <fullyQualifiedTypeName name="services.Card"/>
+    <fullyQualifiedTypeName name="entities.PrinterQueue"/>
+    <fullyQualifiedTypeName name="entities.PrintJob"/>
+    <fullyQualifiedTypeName name="entities.ProcessQueue"/>
+    <fullyQualifiedTypeName name="entities.Process"/>
 </qualifiedTypeNameHistroy>
